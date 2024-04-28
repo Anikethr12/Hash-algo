@@ -1,7 +1,10 @@
+#CREATER INTRODUCTION
+this tools is created by Aniket,  ( https://www.linkedin.com/in/aniket-work-885655271/ )
+
 # Go-Hash
 Algorithm identification tools on hashes like MD5, SHA1, SHA256, SHA512, MYSQL
 
-<img src="https://github.com/HunxByts/Go-Hash/blob/main/asset/Go-Hash.png"/>
+
 
 ### Instalation on Linux (deb)
 ```
@@ -25,5 +28,5 @@ python3 gohash.py
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/Anikethr12">Aniket</a></strong>
 
