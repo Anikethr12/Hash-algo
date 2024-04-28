@@ -20,7 +20,7 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/Go-Hash.git
+git clone https://github.com/Anikethr12/Hash-algo.git
 cd Go-Hash
 pip3 install -r requirements.txt
 python3 gohash.py
